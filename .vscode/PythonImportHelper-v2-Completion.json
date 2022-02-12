@@ -1,0 +1,613 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getcwd",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "code",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "code",
+        "description": "code",
+        "detail": "code",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {}
+    },
+    {
+        "label": "zlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zlib",
+        "description": "zlib",
+        "detail": "zlib",
+        "documentation": {}
+    },
+    {
+        "label": "six",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "six",
+        "description": "six",
+        "detail": "six",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "six.moves.urllib.parse",
+        "description": "six.moves.urllib.parse",
+        "isExtraImport": true,
+        "detail": "six.moves.urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "websocket",
+        "description": "websocket",
+        "detail": "websocket",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "starlette.middleware.cors",
+        "description": "starlette.middleware.cors",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "isExtraImport": true,
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "starlette.staticfiles",
+        "description": "starlette.staticfiles",
+        "isExtraImport": true,
+        "detail": "starlette.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "copyfileobj",
+        "importPath": "shutil ",
+        "description": "shutil ",
+        "isExtraImport": true,
+        "detail": "shutil ",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.8/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.jp",
+        "description": ".venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "VAction",
+        "kind": 6,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "class VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1\n        setattr(args, self.dest, values)\ndef parse_args():",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "RawInput",
+        "kind": 6,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "class RawInput:\n    def raw_input(self, prompt):\n        if six.PY3:\n            line = input(prompt)\n        else:\n            line = raw_input(prompt)\n        if ENCODING and ENCODING != \"utf-8\" and not isinstance(line, six.text_type):\n            line = line.decode(ENCODING).encode(\"utf-8\")\n        elif isinstance(line, six.text_type):\n            line = line.encode(\"utf-8\")",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "InteractiveConsole",
+        "kind": 6,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "class InteractiveConsole(RawInput, code.InteractiveConsole):\n    def write(self, data):\n        sys.stdout.write(\"\\033[2K\\033[E\")\n        # sys.stdout.write(\"\\n\")\n        sys.stdout.write(\"\\033[34m< \" + data + \"\\033[39m\")\n        sys.stdout.write(\"\\n> \")\n        sys.stdout.flush()\n    def read(self):\n        return self.raw_input(\"> \")\nclass NonInteractive(RawInput):",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "NonInteractive",
+        "kind": 6,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "class NonInteractive(RawInput):\n    def write(self, data):\n        sys.stdout.write(data)\n        sys.stdout.write(\"\\n\")\n        sys.stdout.flush()\n    def read(self):\n        return self.raw_input(\"\")\ndef main():\n    start_time = time.time()\n    args = parse_args()",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "get_encoding",
+        "kind": 2,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "def get_encoding():\n    encoding = getattr(sys.stdin, \"encoding\", \"\")\n    if not encoding:\n        return \"utf-8\"\n    else:\n        return encoding.lower()\nOPCODE_DATA = (websocket.ABNF.OPCODE_TEXT, websocket.ABNF.OPCODE_BINARY)\nENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description=\"WebSocket Simple Dump Tool\")\n    parser.add_argument(\"url\", metavar=\"ws_url\",\n                        help=\"websocket url. ex. ws://echo.websocket.org/\")\n    parser.add_argument(\"-p\", \"--proxy\",\n                        help=\"proxy url. ex. http://127.0.0.1:8080\")\n    parser.add_argument(\"-v\", \"--verbose\", default=0, nargs='?', action=VAction,\n                        dest=\"verbose\",\n                        help=\"set verbose mode. If set to 1, show opcode. \"\n                        \"If set to 2, enable to trace  websocket module\")",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "def main():\n    start_time = time.time()\n    args = parse_args()\n    if args.verbose > 1:\n        websocket.enableTrace(True)\n    options = {}\n    if args.proxy:\n        p = urlparse(args.proxy)\n        options[\"http_proxy_host\"] = p.hostname\n        options[\"http_proxy_port\"] = p.port",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "OPCODE_DATA",
+        "kind": 5,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "OPCODE_DATA = (websocket.ABNF.OPCODE_TEXT, websocket.ABNF.OPCODE_BINARY)\nENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "ENCODING",
+        "kind": 5,
+        "importPath": ".venv.bin.wsdump",
+        "description": ".venv.bin.wsdump",
+        "peekOfCode": "ENCODING = get_encoding()\nclass VAction(argparse.Action):\n    def __call__(self, parser, args, values, option_string=None):\n        if values is None:\n            values = \"1\"\n        try:\n            values = int(values)\n        except ValueError:\n            values = values.count(\"v\") + 1\n        setattr(args, self.dest, values)",
+        "detail": ".venv.bin.wsdump",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\n# target_metadata = None\ntarget_metadata = SQLModel.metadata",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = SQLModel.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class User(SQLModel):\n   id : UUID = Field(uuid4(), primary_key=True)\n   username : str = Field(nullable=False)\n   email : EmailStr = Field(nullable=False)\n   password: str = Field(nullable=False)\nclass Product(SQLModel):\n    id : UUID = Field(uuid4(), primary_key=True)\n    name : str = Field(nullable=False)\n    price : float = Field(nullable=False)\n    description : str = Field(nullable=False)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class Product(SQLModel):\n    id : UUID = Field(uuid4(), primary_key=True)\n    name : str = Field(nullable=False)\n    price : float = Field(nullable=False)\n    description : str = Field(nullable=False)\n    image : str = Field(default='https://penmadsidrap.com/uploads/blog_image/default.jpg')\n    category: str = Field(nullable=False)\nclass Cart(SQLModel):\n    id : UUID = Field(uuid4(), primary_key=True)\n    user_id : UUID = Field(nullable=False)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class Cart(SQLModel):\n    id : UUID = Field(uuid4(), primary_key=True)\n    user_id : UUID = Field(nullable=False)\n    products_id : List[UUID] = Field(nullable=True)\nclass Post(SQLModel):\n    id: UUID = Field(uuid4(), primary_key=True)\n    title: str = Field(nullable=False)\n    summary: str = Field(nullable=False)\n    content: str = Field(nullable=False)\n    category: str = Field(nullable=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class Post(SQLModel):\n    id: UUID = Field(uuid4(), primary_key=True)\n    title: str = Field(nullable=False)\n    summary: str = Field(nullable=False)\n    content: str = Field(nullable=False)\n    category: str = Field(nullable=True)\n    image: str = Field(default='https://penmadsidrap.com/uploads/blog_image/default.jpg')\n    icon: str = Field(default='mdi mdi-file-document-outline')\ndb = create_engine(\"mysql+pymysql://user:secret@localhost:3306/db\")\nSQLModel.metadata.create_all(db)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def upload_file(file: UploadFile = File(...)):\n    with open(getcwd()+'/uploads/'+file.filename, 'wb+') as buffer:\n        try:\n            copyfileobj(file.file, buffer)\n        except Exception as e:\n            print(e)\n        buffer.close() \n    return buffer.name\nif __name__ == \"__main__\":\n    run(app, host='0.0.0.0', port=8000, debug=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "db = create_engine(\"mysql+pymysql://user:secret@localhost:3306/db\")\nSQLModel.metadata.create_all(db)\napp = FastAPI()\napp.mount('/uploads', StaticFiles(directory='uploads'), name='static')\napp.add_middleware(CORSMiddleware, allow_origins=['*'], allow_methods=['*'], allow_headers=['*'])\n@app.get(\"/\")\nasync def index():\n    return RedirectResponse(url='/docs')\n@app.get(\"/products\")\nasync def products():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI()\napp.mount('/uploads', StaticFiles(directory='uploads'), name='static')\napp.add_middleware(CORSMiddleware, allow_origins=['*'], allow_methods=['*'], allow_headers=['*'])\n@app.get(\"/\")\nasync def index():\n    return RedirectResponse(url='/docs')\n@app.get(\"/products\")\nasync def products():\n    with Session(db) as session:\n        products = session.query(Product).all()",
+        "detail": "app",
+        "documentation": {}
+    }
+]

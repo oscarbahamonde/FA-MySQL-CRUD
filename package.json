@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "dev": "python app.py"
+    },
+    "license": "MIT"
+}
